@@ -8,6 +8,6 @@ while(num!=0):
     num=num/10
 if(old==sum): 
     print("armstrong")
-else:
+else: 
      print("not armstrong")
     
